@@ -1,0 +1,26 @@
+print("=== LIST OPERATIONS ===")
+marks = [85, 72, 90, 66, 78] 
+print("Original list:", marks) 
+marks.append(95) 
+print("After adding 95:", marks) 
+marks.remove(66) 
+print("After removing 66:", marks) 
+marks.sort() 
+print("After sorting:", marks) 
+marks.reverse() 
+print("After reversing:", marks) 
+print("\n=== TUPLE OPERATIONS ===") 
+fruits = ("apple", "banana", "cherry", "mango", "orange") 
+print("Original tuple:", fruits) 
+print("First element:", fruits[0]) 
+print("Last element:", fruits[-1]) 
+print("Sliced tuple (1:4):", fruits[1:4]) 
+(f1, f2, f3, f4, f5) = fruits 
+print("Unpacked values:") 
+print("f1 =", f1) 
+print("f2 =", f2) 
+print("f3 =", f3) 
+print("f4 =", f4) 
+print("f5 =", f5) 
+
+ 
