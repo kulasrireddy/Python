@@ -1,18 +1,28 @@
-🔐 Password Validation using Regular Expressions (Python)
-This project demonstrates how to validate passwords in Python using the re (Regular Expressions) module.
-The script checks whether a password meets common security requirements such as the presence of uppercase letters, lowercase letters, digits, special characters, and minimum length.
+This repository contains Python programs and mini projects developed for learning and practicing core programming concepts. It includes basic programs, logical problems, and small real-world applications to strengthen problem-solving skills.
+The repository is designed for beginners and covers concepts such as loops, conditional statements, functions, recursion, string operations, and mini systems like banking and contact management.
 
-📘 Features
-Uses compiled regex patterns for efficiency.
-Validates multiple passwords in a loop.
-Clearly identifies valid and invalid passwords.
-Easy to extend or integrate into larger applications.
+Topics & Programs Included
+✅ Input and Output
+✅ Variables and Data Types
+✅ Conditional Statements (if, else, elif)
+✅ Loops (for loop, while loop)
+✅ Functions
+✅ Recursion
+✅ Lambda Functions
+✅ List Operations
+✅ String Operations
+✅ Factorial Programs
+✅ Fibonacci Series
+✅ Prime Numbers
+✅ Sum of Natural Numbers
+✅ Even and Odd Numbers
+✅ Pattern Programs
+✅ Bank Management System (Mini Project)
+✅ Contact Management System (Mini Project)
 
-✅ Validation Rules
-A password is considered valid if it satisfies all of the following:
-Contains at least one lowercase letter (a–z)
-Contains at least one uppercase letter (A–Z)
-Contains at least one digit (0–9)
-Contains at least one special character from @$!%*?&
+🧑‍💻Who Can Use This Repository?
+Beginners learning Python
+Students practicing coding fundamentals
+Anyone preparing for interviews or coding tests
+Learners building logic and confidence
 
-Has a minimum length of 8 characters
